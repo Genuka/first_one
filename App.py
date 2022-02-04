@@ -1,5 +1,5 @@
 import pandas as pd
-import sreamilt as st
+import streamlit as st
 
 
 st.write("Hi")
